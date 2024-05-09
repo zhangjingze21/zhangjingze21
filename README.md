@@ -1,1 +1,1 @@
-[![Zhangjingze21's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangjingze21\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhangjingze21's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangjingze21\&include_all_commits=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
